@@ -111,3 +111,13 @@ Purpose:
 /screenshots
 /configs
 /notes
+## 📸 LAB 2 – Screenshots
+
+### Domain Controller (DC01)
+![DC01 ADUC](screenshots/dc01-aduc.png)
+![GPMC](screenshots/gpmc.png)
+
+### Windows 11 Client
+![Win11 Domain Join](screenshots/win11-domain-join.png)
+![User Login Test](screenshots/win11-jdoe-login.png)
+
