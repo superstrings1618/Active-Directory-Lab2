@@ -1,6 +1,9 @@
-> 🔬 Hands-on Active Directory lab simulating real-world IT Analyst tasks:
+>> 🔬 Hands-on Active Directory lab simulating real-world IT Analyst tasks:
 > domain setup, DNS troubleshooting, Group Policy, and Windows 11 client onboarding.
 
+# Active Directory Lab 2
+## Objective
+...
 🔹 Title
 # Active-Directory-Lab2
 # Active Directory Lab 2 – Domain, DNS, GPO, and Client Join
